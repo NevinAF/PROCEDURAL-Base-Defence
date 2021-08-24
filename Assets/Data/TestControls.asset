@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d88807654e301264e9869da6197cf418, type: 3}
+  m_Name: TestControls
+  m_EditorClassIdentifier: 
+  Name: Nevin
+  StrafeLeft: 108
+  StrafeRight: 39
+  WalkForwards: 112
+  WalkBackwords: 59
+  Jump: 32
+  Sprint: 107
+  Inventory: 111
+  ChangeMode: 91
+  SnapBuild: 13
+  TogglePreviewBuild: 116
+  FlatenTerrain: 105
